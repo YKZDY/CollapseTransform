@@ -49,6 +49,8 @@ Parameters:
     Intermediate Group：包含内部面的组名称。
 	
     Surface B Group：包含目标几何体表面的组名称。
+    
+    Create Intermediate uv：为内部面生成uv。
 
     Pack Geometry：把每一个碎块打包到一个内嵌的packed primitive对象中。
 
