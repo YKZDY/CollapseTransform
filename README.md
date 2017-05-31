@@ -12,7 +12,7 @@ Tips:
 
     There must be plenty overlap of two input geometrys.
     
-    By default, the geometry's surface cannot be splited into ideal cubes. Turning up the 'Sample Offset' parameter can allow it to be closer to the perfect cubes. If you find some animation problems after you change this parameter, please try to turn up 'Direction Constraint' as well.
+    By default, the geometry's surface cannot be splited into ideal cubes. Turning up the 'Sample Offset' parameter can allow it to be closer to the perfect cubes. If you find some animation problems after you change this parameter, please try to turn up 'Direction Constraint' as well.
 
 Input:
 -----
@@ -41,17 +41,17 @@ Parameters:
         From A：Generate the intermediate state by first input geometry.
         From B：Generate the intermediate state by second input geometry.
         Bounding Object：Generate the intermediate state by the third input bounding box geometry.
-		
+	
     Intermediate Offset：When you use the first or the second geometry to generate the intermediate state, you can use this parameter to offset the original geometry surface.
-	
+    
     Surface A Group：The group containing any primitives in the first input.
-	
+    
     Intermediate Group：The group containing any primitives in the interior surfaces.
-	
+    
     Surface B Group：The group containing any primitives in the second input.
     
-    Create Intermediate uv：Generate uv attribute for intermediate primitives.
-
+    Create Intermediate uv：Generate uv attribute for intermediate primitives.
+    
     Pack Geometry：Pack every single box into a packed geometry.
 
 ### Action:
