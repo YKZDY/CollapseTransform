@@ -38,7 +38,7 @@ Parameters:
 	
     Intermediate Type：
 	
-	From A：Generate the intermediate state by first input geometry.
+        From A：Generate the intermediate state by first input geometry.
         From B：Generate the intermediate state by second input geometry.
         Bounding Object：Generate the intermediate state by the third input bounding box geometry.
 		
