@@ -57,8 +57,8 @@ Parameters:
 ### Action:
 
     Percent：The transform progress, zero representative the original geometry, one representative the target geometry.
-	
-    Duration：The lifetime of each temporary box.
+    
+    Duration：The lifetime of each temporary box.
 	
 ### Sample:
 
