@@ -71,6 +71,6 @@ Parameters:
   Constraint B Depth：Constraint the animation of the internal boxes, turning up this parameter might lead to an endless loop.
   
 
-> Author：Calven Gu
+> Author：Calvin Gu
 
 > E-mail：cz069069@outlook.com
